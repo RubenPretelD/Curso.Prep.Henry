@@ -1,0 +1,7 @@
+for -- Es un comando que trabaja en fomra de bucle infinito mientras no se le de la instruccón que lo haga terminar.
+
+&& -- Es un operador logico que devuelve verdadero si dos condiciones se cumplen, si solo un de ellas se cumple arroja falso
+
+|| -- Es un operador logico que devuelve verdadero si solo una de dos o mas condiciones se cumplen, solo si ninguna condicion se cumple arroja falso
+
+! -- Operador lógco que devuelve falso si su unico operador se puede convertir a verdadero
